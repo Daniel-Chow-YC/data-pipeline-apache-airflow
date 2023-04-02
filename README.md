@@ -33,10 +33,10 @@ DAG parameters:
 
 * The DAG does not have dependencies on past runs
 * DAG has schedule interval set to hourly
-* On failure, the task are retried 3 times
+* On failure, the tasks are retried 3 times
 * Retries happen every 5 minutes
 * Catchup is turned off
-* Email are not sent on retry
+* Emails are not sent on retry
 
 ### Task dependencies
 <figure>
