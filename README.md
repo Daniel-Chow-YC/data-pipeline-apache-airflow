@@ -40,5 +40,5 @@ DAG parameters:
 
 ### Task dependencies
 <figure>
-  <img src="dag.jpg" alt="dag" width=60% height=60%>
+  <img src="dag.jpg" alt="dag" width=100% height=100%>
 </figure>
